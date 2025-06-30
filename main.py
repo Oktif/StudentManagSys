@@ -1,3 +1,5 @@
+# TODO : add validation for data
+
 # This is a sample Python script.
 from src.student_system import StudentSystem
 
