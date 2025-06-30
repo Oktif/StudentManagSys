@@ -1,4 +1,5 @@
 # TODO : add validation for data
+# TODO : improve main student logic
 
 # This is a sample Python script.
 from src.student_system import StudentSystem
